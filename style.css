@@ -94,7 +94,12 @@ body {
 .footer-switch {
   margin-left: 750px;
   padding-left: 28px;
-  
+}
+
+.header-table,
+.footer-table {
+  margin-left: 1655px;
+  padding-left: 28px;
 }
 
 .page-header a:active,
