@@ -1,0 +1,47 @@
+body {
+    background-color: #141530;
+    background-image: url("img/pattern-lines-hero.svg");
+    background-position: center;
+}
+
+.t {
+    width: 800px;
+    height: 900px;
+    border: 1px solid black;
+    margin: 200px auto;
+    position: relative;
+    background-image: url("img3/c4.jpg");
+
+}
+.s {
+    width: auto;
+    height: auto;
+    background-image: url("img3/c1.png");
+    position: absolute;
+    left: 10px;
+    top: auto;
+}
+
+.c {
+    width: auto;
+    height: 744px;
+    background-image: url("img3/c2.png");
+    position: absolute;
+    left: 547px;
+    top: auto;
+}
+
+.v {
+    width: auto;
+    height: 744px;
+    background-image: url("img3/c3.png");
+    position: absolute;
+    left: 276px;
+    bottom: auto;
+}
+
+p {
+    text-align: center;
+    color: black;
+}
+
