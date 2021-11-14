@@ -13,7 +13,7 @@ body {
     border: 1px solid black;
     margin: 200px auto;
     position: relative;
-    background-image: url("c4.jpg");
+    background-color: white;
 }
 .s {
 	margin: 0 0 5% 0;
@@ -41,3 +41,5 @@ body {
     margin-bottom: 10px;
     margin-top: 10px;
 }
+
+
