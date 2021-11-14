@@ -2,14 +2,13 @@ body {
     background-color: #141530;
     background-image: url("pattern-lines-hero.svg");
     background-position: center;
-	
 }
 
 .t {
     display:flex;
-	flex-wrap:wrap;
+    flex-wrap:wrap;
     justify-content:space-around;
-	width: 800px;
+    width: 800px;
     height: 900px;
     border: 1px solid black;
     margin: 200px auto;
