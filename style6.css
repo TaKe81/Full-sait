@@ -1,0 +1,130 @@
+body{
+    position: absolute;
+    width: 1366px;
+    height: 684px;
+    left: 0px;
+    top: 0px;
+    background: #181617;
+    }
+    
+    header {
+    position: absolute;
+    width: 1019px;
+    height: 684px;
+    left: 347px;
+    top: 0px;
+    }
+    
+    h3{
+    position: absolute;
+    width: 69px;
+    height: 21px;
+    left: calc(50% - 69px/2 - 446.5px);
+    top: 186px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #A07B50;
+    }
+    
+    .text{
+    position: absolute;
+    width: 622px;
+    height: 107px;
+    left: 30px;
+    top: 226px;
+    font-family: Yeseva One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 52px;
+    line-height: 60px;
+    color: #FFFFFF;
+    
+    }
+    
+    p{
+    position: absolute;
+    width: 383px;
+    height: 22px;
+    left: calc(50% - 383px/2 - 287.5px);
+    top: 364px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #A07B50;
+    }
+    .Vector {
+    position: absolute;
+    width: 0px;
+    height: 77.5px;
+    left: 96px;
+    top: calc(50% - 77.5px/2 - 116.75px);
+    border: 0.5px solid rgba(255, 255, 255, 0.61);
+    }
+    .crown {
+    position: absolute;
+    width: 79px;
+    height: 79px;
+    left: 654px;
+    top: 31px;
+    }
+    .rectangle p {
+    position: absolute;
+    width: 200px;
+    height: 52px;
+    left: 32px;
+    top: 458px;
+    border: 0.5px solid #A07B50;
+    box-sizing: border-box;
+    color: white;
+    text-align: center;
+    padding-top: 12px;
+    }
+
+    section{
+    position: absolute;
+    width: 130px;
+    height: 17px;
+    left: 239px;
+    top: 476px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    }
+    .rtr {
+    position: absolute;
+    left: -20%;
+    right: 93.19%;
+    top: 100%;
+    bottom: 48.84%;
+    padding: 15px;
+    }
+    .vk {
+    position: absolute;
+    height: 10.9px;
+    left: 6.44%;
+    right: 92.61%;
+    top: calc(50% - 8px/2 - 42.5px);
+    }
+    .tw {
+    position: absolute;
+    height: 10.39px;
+    left: 6.37%;
+    right: 92.53%;
+    top: calc(50% - 10.39px/2 - 18.3px);
+    }
+    .fc {
+    position: absolute;
+    height: 10.9px;
+    left: 6.73%;
+    right: 92.89%;
+    top: calc(50% - 10.9px/2 + 7.57px);
+    }
